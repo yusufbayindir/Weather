@@ -22,7 +22,7 @@ To install the app, simply clone this repository and run it in Xcode. You will n
 
 bash
 Copy code
-git clone [repository-url]
+git clone https://github.com/yourusername/Weather.git
 Open the project in Xcode, build it, and run it on your chosen simulator or actual device.
 
 Usage
